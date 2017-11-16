@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  Color Picker
+//  ColorPicker
 //
 //  Created by Marissa watkins on 11/15/17.
 //  Copyright © 2017 Marissa Watkins. All rights reserved.
